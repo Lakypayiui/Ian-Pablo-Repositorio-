@@ -1,6 +1,5 @@
-# Ian-Pablo-Repositorio-
-Descubrir nuevas soluciones con facilidad 
-<h1 align="center">Hi 👋, I'm Ian Pablo</h1>
+
+<h1 align="center">Hi 👋, I'm Ian</h1>
 <h3 align="center">I love Ia</h3>
 
 - 🔭 I’m currently working on **3D I´m**
